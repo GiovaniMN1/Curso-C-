@@ -11,7 +11,7 @@ namespace variables
 
             int suma = numero1 + numero2;
 
-            Console.WriteLine("la suma es: " + suma);
+            Console.WriteLine("la suma es" + suma);
         }
     }
 }
